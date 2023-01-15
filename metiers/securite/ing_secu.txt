@@ -1,0 +1,73 @@
+
+<p>
+Le métier <strong>d’ingénieur sécurité informatique</strong>, également nommé expert sécurité des systèmes informatiques, ingénieur sécurité web ou encore ingénieur en cybersécurité, consiste globalement à assurer la sécurité des systèmes informatiques de sa propre entreprise ou celle au sein de laquelle il intervient et à traquer les éventuelles failles sur les réseaux internes et externes. L’ingénieur sécurité informatique déploie ses compétences dans trois domaines : la sécurisation, la formation-conseil, la veille technologique et juridique.<br/>
+En effet, grâce à une excellente méthodologie, il analysera, évaluera, sécurisera et le cas échéant dépannera les systèmes informatiques sur les différents réseaux. L’ingénieur sécurité informatique s’attellera également à sensibiliser les salariés de l’entreprise pour qu’ils adhèrent aux procédures préconisées et adoptent les gestes indispensables à la sécurisation des données. Pour ce faire, il sera parfois nécessaire d’accompagner et de former les équipes de manière plus soutenue. Enfin, une part importante – et fondamentale - du travail de l’expert en sécurité informatique sera de mettre à jour ses connaissances et les dernières techniques et technologies en matière de sécurité, et ce, de manière régulière. 
+Il en va de la pertinence et de l’efficience de ses actions au quotidien.
+</p>
+
+
+<h2>Quel salaire et combien gagne un Ingénieur sécurité informatique ?</h2>
+
+<p>
+Il n’existe pas de grille salariale pour définir les montants du salaire d’un ingénieur sécurité informatique. Le salaire dépendra alors de la taille et la nature de l’entreprise, mais aussi des missions confiées au professionnel. Les employeurs déterminent ainsi des « fourchettes » de salaire et les ajustent souvent en tenant compte de l’expérience professionnelle du candidat. On estime toutefois que le salaire moyen d’un ingénieur en sécurité informatique est compris entre 40 000 et 60 000 euros bruts par an.
+D’une manière générale, un jeune professionnel pourra espérer un salaire annuel brut compris entre 30 000 et 35 000 euros bruts par an. Cela représente un salaire net mensuel moyen aux alentours de 2 000 euros. L’ingénieur sécurité informatique expérimenté, quant à lui, pourrait prétendre à un salaire brut moyen d’environ 4 000 à 5 000 euros par mois. Un professionnel qui aura une expérience solide et confirmée pourra prétendre à des salaires bien supérieurs. De nombreux critères sont à prendre en compte dans l’évaluation du salaire potentiel.<br/>
+Les grandes entreprises où le niveau de compétences techniques demandé est très fort proposeront des rémunérations plus attractives, qui pourront comprendre des variables, des primes ou un intéressement. Un ingénieur sécurité informatique dans une PME touchera généralement moins. Un poste basé à Paris sera généralement mieux payé également, comparément à un poste situé en région. Le niveau d’expertise et l’expérience sont des clés importantes pour espérer toucher des salaires plus élevés.
+</p>
+
+<h3>Les points positifs</h3>
+<li>Avec l’informatisation des données et la tendance à généraliser l’utilisation des réseaux intranet et Internet, la plupart des entreprises se confrontent aux enjeux de sécurisation. Cette évolution des pratiques garantit un avenir prometteur pour les ingénieurs sécurité informatique et une pluralité de ses secteurs d’intervention.</li>
+<li>Étant donné son poste à responsabilité, le salaire est attractif, dès le début de carrière. Métier d’avenir donc, dont les pratiques et technologies évoluent sans cesse. Cela permet de nourrir curiosité et esprit appréciant les challenges. Il faudra en effet rester à l’affût et se mettre à jour continuellement pour mener à bien les missions et garantir ainsi la sécurisation la plus efficace possible des données et des systèmes informatiques.</li>
+<li>La dimension humaine est importante dans cette fonction puisque l’ingénieur sécurité informatique interagit souvent avec les salariés, ses clients et son équipe. Dans ce sens, il leur transmet savoirs et savoir-faire pour assurer notamment la pérennité des actions mises en œuvre au sein de l’entreprise.</li>
+
+<h3>Les points négatifs</h3>
+
+<li>Le professionnel porte de nombreuses responsabilités, fondamentales pour celle-ci. Ainsi, l’exercice du métier d’ingénieur sécurité informatique est exigeant et demande une bonne gestion du stress.</li>
+<li>Dans le même ordre d’idée, il doit pouvoir travailler efficacement dans un rythme soutenu et gérer des situations délicates sans que sa méthodologie et capacité d’analyse soient compromises.</li>
+
+
+<h2>Quelles sont les qualités et compétences nécessaires pour être embauché en tant que Ingénieur sécurité informatique ?</h2>
+
+<p>
+Pour faciliter son recrutement, l’ingénieur sécurité informatique peut mettre en avant toutes les aptitudes qu’on peut attendre de ce professionnel telles que la rigueur, la discrétion (notion de confidentialité), l’écoute et une pédagogie certaine ainsi qu’un sens prononcé pour le travail en équipe.
+Au-delà de ces qualités, il est primordial de faire valoir la connaissance et la maîtrise des systèmes d’exploitation et informatiques ainsi que des réseaux. De solides acquis sur l’aspect juridique de la sécurité et du droit informatiques paraissent également indispensables. Il est aussi une notion essentielle, la méthodologie.
+En effet, celle-ci permettra de mener à bien des projets au sein des entreprises sur du long terme et de manière la plus efficiente possible. Cette gestion de projet demandera à l’ingénieur sécurité informatique de maîtriser le jargon professionnel et de vulgariser l’information à transmettre aux clients, mais aussi de parler et comprendre l’anglais technique.
+</p>
+
+
+<h2>Quelle formation pour devenir Ingénieur sécurité informatique ?</h2>
+
+<p>
+Les métiers de la cybersécurité nécessitent un parcours de formation spécialisé dans le secteur de l’informatique, des réseaux et systèmes, mais aussi en lien avec la gestion de projet. 
+Pour ce faire, le futur professionnel peut se diriger vers des formations de niveau bac+5 types Master – informatiques et réseaux / sécurité de l’information et cryptologie - ou s’orienter vers une école d’ingénieur. Aussi, certains parcours comme le BTS ou le DUT (informatique et réseaux) peuvent apporter une base solide de connaissances et de compétences, enrichie ensuite par l’expérience professionnelle et des formations complémentaires spécialisées.<br/>
+Quel que soit le parcours de formation choisi, il faut avoir conscience que l’expérience professionnelle est un point essentiel recherché et valorisé par les employeurs potentiels.
+</p>
+
+
+<h2>Que faire après Ingénieur sécurité informatique ?</h2>
+
+<p>
+Le métier d’ingénieur sécurité informatique offre de nombreuses perspectives d’évolution dans la fonction de direction ou dans le domaine de l’expertise. En effet, après un certain nombre d’années d’expériences professionnelles, il est possible de convoiter des postes de direction et de responsable. Vous serez alors responsable des systèmes et réseaux, de la sécurité informatique ou encore de la production informatique. 
+Concernant la fonction de direction, vous pourrez prétendre à un poste de directeur des systèmes d’information. Dans le but de se déployer dans le domaine de l’expertise, l’ingénieur sécurité informatique peut être indépendant et/ou évoluer dans un cabinet spécialisé pour exercer en qualité de consultant.
+</p>
+
+
+<h2>Quelles sont les entreprises qui peuvent recruter un Ingénieur sécurité informatique ?</h2>
+
+<p>
+Là encore, le panel des principaux employeurs est riche et varié. De nombreuses offres d’emploi sont émises par des entreprises de services numériques ou par des entreprises dont le secteur est sensible comme la finance, la défense ou encore la Telecom. Du fait de leur activité, elles ne peuvent faire l’impasse sur la sécurisation de leurs données et process. En fonction de leur taille, ces dernières feront appel à une entreprise spécialisée dans la sécurité des systèmes informatiques ou embaucheront directement les professionnels experts.<br/>
+Comme évoqué précédemment, les cabinets d’expertise ou de conseil spécialisé interviennent auprès d’entreprises dont les besoins diffèrent selon les situations et les éventuelles problématiques rencontrées. Dans ce sens, l’ingénieur sécurité informatique peut trouver sa place en devenant membre consultant au sein de ces cabinets.
+</p>
+
+<h2>Quelles sont les diplômes nécessaires pour devenir ingénieur sécurité informatique ?</h2>
+
+<p>
+Les diplômes permettant de devenir responsable clientèle sont donc nombreux. Les titulaires de BTS/DUT et de master, les diplômés d’écoles de commerce ont ainsi toutes les chances d’y parvenir. L’expérience professionnelle est une donnée importante pour bon nombre d’entreprises.
+Certains candidats diplômés d’un BTS peuvent par exemple exercer plusieurs années en tant que gestionnaire service client ou en tant que chargé de clientèle avant d’obtenir le poste de responsable clientèle. Aussi, il existe certaines formations professionnalisantes spécialisées dans le domaine de la gérance relation client.
+</p>
+
+<h2>Quelles sont les missions que vous pouvez réaliser en tant qu'ingénieur de sécurité informatique ?</h2>
+
+<p>
+Même si les missions peuvent varier d’un poste à l’autre, l’ingénieur sécurité informatique pourra développer tout ou partie de ses compétences techniques et sociales au service de sa propre entreprise ou auprès de ses clients. Ainsi, l’expert en sécurité pourra évaluer la fiabilité du système informatique, installer de nouveaux matériels et logiciels ainsi que mettre en place des processus dans le but de garantir sa protection ou de l’améliorer si nécessaire.
+Proactif, il proposera des solutions pour réduire le risque d’intrusion et formera les salariés aux enjeux et gestes en matière de sécurité informatique. Toutes ses actions ont pour objectif d’assurer la disponibilité, l’intégrité ainsi que la sécurité des données des entreprises. Lorsqu’une intrusion ou une défaillance est repérée, l’ingénieur sécurité informatique doit être capable d’en déterminer l’origine et d’y remédier, dans un laps de temps très court.
+</p>

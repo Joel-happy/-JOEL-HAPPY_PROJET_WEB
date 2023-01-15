@@ -1,0 +1,65 @@
+
+<h2>Quels sont les autres noms du poste Développeur mobile ?</h2>
+
+    <p>
+Parmi les synonymes de développeur mobile on recense les termes suivants : <strong>développeur Internet mobile, développeur d'applications tablettes, ou enfin développeur d'applications pour terminaux mobiles</strong>.
+    </p>
+
+
+
+<h2>Quel salaire et combien gagne un Développeur mobile ?</h2>
+
+<p>
+Un développeur mobile perçoit un salaire net d’environ 2 500 à 3 000 euros par mois lorsqu’il débute sa carrière et peut toucher jusqu’à plus de 5 000 euros net par mois lorsqu’il est expérimenté. Cette rémunération dépend beaucoup de l’endroit où il exerce son expertise, des contrats qu’il reçoit et de son statut (salarié ou indépendant).<br/>
+Le salaire moyen du développeur mobile en France, tourne autour de 40 000 à 50 000 euros brut annuels environ (soit 3 300 à 4 200 euros brut par mois et un taux horaire d’environ 19 à 24 euros brut). Un professionnel junior débute sa carrière avec une rémunération annuelle comprise entre 30 000 euros et 40 000 euros brut (correspondant à un taux horaire compris entre 16 euros et 22 euros brut).<br/>
+Avec de l’expérience, ses projets seront de plus en plus importants, et ses responsabilités également. C’est pourquoi son salaire moyen évoluera en conséquence pour atteindre jusqu’à plus 50 000 euros brut par an (soit environ 4 200 euros brut par mois pour un taux horaire de 27 euros brut). Le développeur mobile peut également se mettre à son compte et devenir indépendant. 
+Ainsi, il peut négocier des contrats et missions bien plus importants pour arriver à une rémunération pouvant aller jusqu’à plus de 80 000 euros brut annuels (ou plus de 6 600 euros brut mensuels environ pour un taux horaire de 44 euros brut). En entreprise, le développeur mobile peut bénéficier de certains avantages, tels que des primes annuelles attractives ou le versement d’un 13ème mois de salaire.<br/>
+Les parts variables additionnelles au salaire médian du professionnel de l’informatique peuvent également prendre la forme d’une épargne salariale, de participation au transport ou encore de tickets restaurant.
+</p>
+
+<h2>Pourquoi et comment travailler en tant que Développeur mobile ?</h2>
+
+<h3>Les points positifs</h3>
+
+<li>Une rémunération attractive.</li>
+<li>Un métier idéal pour tous les passionnés d'informatique et de nouvelles technologies.</li>
+
+
+<h3>Les points négatifs</h3>
+
+<li>Un métier stressant qui implique de travailler fréquemment dans l'urgence et de respecter des délais très brefs, quitte à cumuler les heures supplémentaires.</li>
+<li>Une profession qui exige rigueur et patience ; un développeur mobile étant souvent contraint de se remettre en question, voire reprendre son travail à zéro si une anomalie est constatée.</li>
+
+
+<h2>Quelles sont les qualités et compétences nécessaires pour être embauché en tant que Développeur mobile ?</h2>
+
+<p>
+Travaillant au cœur des secteurs de l'informatique et des nouvelles technologies, un développeur mobile se doit non seulement d'être un informaticien hors pair, mais également posséder de solides connaissances scientifiques, notamment pour définir les algorithmes nécessaires aux programmes qu'il conçoit. 
+Outre les compétences susdites, il est recommandé pour un développeur mobile de faire montre d'un certain talent en matière de communication afin, par exemple, de convaincre les clients de la qualité de ses réalisations.
+Enfin, le développeur mobile exerce sa profession dans un domaine où il s'avère indispensable d'être rigoureux et au fait de toutes les évolutions et nouveautés technologiques.
+</p>
+
+
+
+<h2>Quelle formation et comment devenir Développeur mobile ?</h2>
+
+<p>
+Diverses formations permettent d'accéder à la profession de développeur mobile : 
+Au niveau bac +2, il est recommandé de posséder un BTU ou un DUT en informatique.<br/>
+Au niveau bac +3, la Licence pro en informatique ou ATC spécialité développeur informatique ou Internet est très appréciée des employeurs.<br/>
+Enfin, au niveau bac +5, il existe un diplôme d'ingénieur spécialisé en télécommunications et informatique, mais également divers Masters tel le Master systèmes informatiques intelligents et communicants.<br/>
+</p>
+
+<h2>Que faire après Développeur mobile ?</h2>
+
+<p>
+Après quelques années d'expérience et en ayant fait preuve de ses qualités, un développeur mobile peut espérer devenir chef de projet web ou mobile s'il travaille au sein d'une entreprise.
+</p>
+
+
+<h2>Quelles sont les entreprises qui peuvent recruter un Développeur mobile ?</h2>
+
+<p>
+Si l'on rencontre quelques développeurs mobiles travaillant en tant qu'indépendants, la plupart d'entre eux exercent toutefois leur activité au sein d'agences et de cabinets spécialisés, mais aussi chez les opérateurs de téléphonie, les éditeurs de logiciels, ou encore les entreprises de services du numérique.
+Notons enfin que certaines entreprises, telles La Poste ou la SNCF, organisent régulièrement des concours, appelés "hackathons" et ayant pour thème la création d'applications, qui permettent à des développeurs mobiles de faire une démonstration de leur talent.
+</p>

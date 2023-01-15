@@ -1,0 +1,87 @@
+<p>
+Chaque entreprise possède un grand nombre de données par rapport à son activité. Elles concernent les clients, les produits, les performances de l’entreprise... Leur nombre peut être très conséquent (Big Data).
+Ces données peuvent avoir un sens utile dès lors qu’elles vont être étudiées afin d’avoir une meilleure connaissance des domaines correspondants. Le rôle du data analyst (code rome 1403) est donc de traiter les données afin d’en extraire toute information qui pourrait faire évoluer la stratégie de l’entreprise. Des tendances d’achat et de consommation vont se dégager, de même qu’un profil du client actuel (persona) et de ses attentes.
+Le data analyst est donc un élément essentiel de l’entreprise car il va donner les moyens concrets de faire évoluer la stratégie commerciale en se basant sur le lot de données collectées quotidiennement. A l’aise avec les statistiques, les bases de données et possédant une solide expérience dans son secteur d’activité, il est capable de visualiser immédiatement les éléments à exploiter pour être plus en phase avec les besoins des acheteurs.
+</p>
+
+
+<h2>Quels sont les autres noms du poste Data analyst ?</h2>
+<p>
+On parle aussi bien de <strong>data analyst que d'analyste de données</strong>.
+</p>
+
+
+<h2>Quel salaire gagne un Data analyst ?</h2>
+
+<p>
+Un Data Analyst perçoit un salaire net de plus de 2 000 euros par mois au début de sa carrière, et peut espérer toucher jusqu’à 6 000 euros net par mois en fin de carrière. Cette rémunération dépend évidemment de son expérience, mais également du secteur d’activité de l’entreprise dans laquelle il exerce, et de la région dans laquelle il se trouve.
+Doté d’un Bac +5, le Data Analyst débute sa carrière avec un salaire compris entre 30 000 euros et 35 000 euros brut annuels (soit un taux horaire compris entre 16 euros et 20 euros brut environ). Cette rémunération augmente avec le temps et à partir de 5 années d’expérience, elle dépasse les 40 voire 50 000 euros bruts annuels pour atteindre, en fin de carrière, plus de 60 000 euros bruts annuels (soit environ 5 000 euros brut mensuels).<br/>
+En fonction du secteur d’activité et de la région dans laquelle il trouve son emploi, son salaire moyen sera plus ou moins important. En effet, en Île-de-France, le salaire médian du Data Analyst varie entre 45 000 euros et 65 000 euros brut par an (un taux horaire compris entre 25 euros et 35 euros bruts environ), alors que dans le Sud-ouest, il est plutôt compris entre 35 000 et 45 000 euros environ (un taux horaire compris entre 20 euros et 25 euros brut).<br/>
+De plus, le secteur d’activité le plus rémunérateur est celui de la santé avec un salaire moyen supérieur à 40 000 euros brut annuels (soit 3 300 euros bruts mensuels environ). À cela peuvent s’ajouter des parts variables telles que des primes annuelles intéressantes, des commissions, une épargne salariale, la participation au transport ou encore des Tickets restaurant.
+</p>
+
+
+<h2>Pourquoi travailler en tant que Data analyst ?</h2>
+
+<h3>Les points positifs</h3>
+
+<li>Profession centrale au sein d’une organisation</li>
+<li>Permet d’allier le goût des chiffres et des statistiques</li>
+<li>Se trouve au cœur de la stratégie de l’entreprise</li>
+
+<h3>Les points négatifs</h3>
+
+<li>Beaucoup de données à étudier</li>
+<li>Maîtrise de l’informatique avec des programmes spécifiques</li>
+<li>Maîtrise de l’anglais souvent souhaitée ou exigée</li>
+
+
+<h2>Quelles sont les compétences nécessaires pour être embauché en tant que Data analyst ?</h2>
+<p>
+Passionné de chiffres et de statistiques, le data analyst sera capable de réaliser des tableaux et des bilans sur l’ensemble des données de l’entreprise. La maîtrise de l'outil informatique et de certains langages de programmation pourront être d'une aide précieuse. 
+L’organisation et la rigueur font partie de ses qualités principales afin d’être capable d’effectuer un suivi quotidien de la base de données et de déceler les domaines dans lesquels il faut étoffer les contenus. La confidentialité est évidemment une valeur à posséder car toutes les données exploitées au cœur de l’entreprise ne doivent pas être transmises à l’extérieur.
+</p>
+
+
+<h2>Quelle formation pour devenir Data analyst ?</h2>
+
+<p>
+Cette profession requiert un diplôme de niveau Bac + 4 à Bac + 5 dans le domaine de l’ingénierie informatique, du marketing ou des études statistiques. Combiner les trois domaines en choisissant des spécialisations sera la meilleure façon de posséder des connaissances complètes. Il existe aussi des centres de formation proposant des cours en centre ou à distance permettant de se former au métier de data analyst.
+</p>
+
+
+<h2>Que faire après Data analyst ?</h2>
+<p>
+Après avoir acquis une expérience significative, le data analyst peut accéder aux fonctions de data scientist.
+</p>
+
+
+<h2>Quelles sont les entreprises qui peuvent recruter un Data analyst ?</h2>
+
+<p>
+Il est intéressant de savoir que cette profession est née du constat que les bases de données devaient être toujours remises à jour et fiables pour assurer un bon fonctionnement de l’entreprise. De ce fait, ce spécialiste peut être recruté par les industries, les grandes entreprises, les commerces, des entreprises dans le secteur de la finance ou même des organisations médicales ou paramédicales.
+</p>
+
+
+<h2>Quelles sont les diplômes nécessaires pour devenir data analyst ?</h2>
+
+<p>
+Il est vivement recommandé d’être au moins diplômé d’un bac+4, voire d’un bac+5 pour pouvoir exercer le métier de data analyst. Les formations diplômantes à privilégier pour devenir data analyst sont à chercher du côté de l’informatique, des statistiques, des mathématiques, mais aussi du marketing.<br/>
+
+Quelques exemples de diplômes pouvant mener à la profession de data analyst :<br/>
+
+<li>Master marketing</li>
+<li>Master Big Data</li>
+<li>Master en mathématiques</li>
+<li>Diplôme école d’ingénieur (spécialité en statistiques)</li>
+</p>
+
+<h2>Quelles sont les missions que vous pouvez réaliser en tant que data analyst ?</h2>
+<p>
+Les missions principales du data analyst sont les suivantes :<br/>
+
+<li>Collecte de données provenant de différentes sources</li>
+<li>Analyse de données via des moyens et des outils spécifiques (mathématiques, statistiques, langages informatiques)</li>
+<li>Interprétation de ces données afin d’en tirer des tendances, aider à la prise de décision, optimiser les performances (objectif marketing, commercial, etc.)</li>
+<li>Recommandations, propositions d’amélioration, compte-rendu des résultats auprès de la hiérarchie.</li>
+</p>

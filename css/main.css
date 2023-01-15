@@ -1,0 +1,183 @@
+/*paramètres généraux*/
+*{margin: 0;}
+
+#image_fond{ background:url('../images/image_de_fond.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;}
+
+a{text-decoration: none;
+    color:black;
+    cursor: pointer;
+}
+
+
+
+/*haut de page*/
+
+.entete{background:#318ce7;
+    font-size: 20px;
+    text-align: center;
+    padding: 2%;
+}
+
+
+main.centre{
+  height: 100%;
+  width: 100%;
+   
+}
+/*barre de navigation*/
+.barre-sup{
+    background-color: #c0c0c0;
+    height: 3%;
+    margin-top: 1%;
+   }
+
+.elements{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align:center;
+    padding:6px 50px;
+   
+}
+
+.elements a:hover{
+    color:#318CE7;
+}
+
+/*texte du milieu*/
+
+.texte-accueil{
+    margin-top:20px;
+    margin-bottom: 20px;
+    padding: 50px;
+    font-size:30px; 
+    text-align: center;
+}
+
+ .liens-filieres{
+   display: flex;
+   justify-content: space-evenly;
+   flex-wrap: wrap;
+   padding: 1%;
+   text-align: center;
+   
+}
+
+
+
+/* boutons */
+
+a.boutons{
+    color:white;
+    border-radius: 28px;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    border-style:groove;
+    border-color: #318CE7;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+a.bouton1, a.bouton2, a.bouton3, a.bouton4, a.bouton5{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+a.bouton1:hover, a.bouton2:hover, a.bouton3:hover, a.bouton4:hover, a.bouton5:hover{
+    transition-duration: 2.5s;
+    color: #318CE7;
+} 
+
+
+
+a.bouton1{
+background: url('../images/developpement/algo_et_code_acc1.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+a.bouton1:hover{
+    background: url('../images/developpement/algo_et_code_acc2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a.bouton2{
+    background: url('../images/design/design1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a.bouton2:hover{
+    background: url('https://st3.depositphotos.com/3591429/12985/i/450/depositphotos_129854960-stock-photo-woman-working-in-art-studio.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a.bouton3{
+    background: url('../images/securite/securite_accueil.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a.bouton3:hover{
+    background: url('../images/securite/securite3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a.bouton4{
+    background: url('../images/data/data.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a.bouton4:hover{
+    background: url('../images/data/data2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a.bouton5{
+    background: url('../images/gestion/accueil_gestion.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a.bouton5:hover{
+background: url('../images/gestion/admin_bd.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+/*libellé des boutons*/
+p.titres_boutons{
+    color:black;
+    background-color: rgba(70,80,90,0.5);
+    
+}
+
+
+/* pied de page */
+
+footer{
+    padding: 1.5%;
+    background: #318CE7;
+    margin-bottom: 0;
+}
+
+.liens-footer{
+    padding: 0.5%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+/*responsive*/
+@media screen and (max-width: 600px) {
+    a.boutons {
+        width: 100%;
+    }
+}

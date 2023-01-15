@@ -1,0 +1,42 @@
+<p>
+Sa mission première est de définir la politique de sécurité du SI et de veiller à son application. Le RSSI assure un rôle de conseil, d'assistance, d'information, de formation et d'alerte.<br/>
+Il peut intervenir directement sur tout ou partie des systèmes informatiques et télécoms de son entité. Il effectue un travail de veille technologique et réglementaire sur son domaine et propose des évolutions qu'il juge nécessaires pour garantir la sécurité logique et physique du système d'information dans son ensemble.<br/>
+Il est l'interface reconnu des exploitants et des chefs de projets mais aussi des experts et des intervenants extérieurs pour les problématiques de sécurité de tout ou partie du SI.
+</p>
+<li>Définition des objectifs et des besoins.</li>
+<li>Définition et mise en place des procédures.</li>
+<li>Définition de l'organisation et de la politique de sécurité.</li>
+<li>Analyse de risques (prescription) :
+Évaluation des risques et des menaces et des conséquences.<br/>
+Remontée de l'ensemble des éléments qui permettent de prendre les décisions.<br/>
+Étude des moyens assurant la sécurité et de leur bonne utilisation.<br/>
+Établissement du plan de prévention.<br/></li>
+<li>Sensibilisation et formation aux enjeux de la sécurité :
+Sensibilisation de la direction générale.<br/>
+Formation des directions opérationnelles et métiers.<br/>
+Participation à la réalisation de la charte de sécurité.<br/>
+Animation des réunions de sensibilisation à la sécurité.<br/>
+Conseil et assistance auprès des équipes.<br/>
+Assure la promotion de tous les utilisateurs.</li>
+<li>Étude des moyens et préconisations :
+Validation technique des outils de sécurité.
+Définition des normes et des standards de sécurité.
+Participation à l'élaboration des règles de sécurité au niveau global de l'entreprise ou du groupe.</li>
+<li>Audit et contrôle :
+Assurance que les plans de sécurité ont été faits suivant les plans préétablis.<br/>
+Garantie que les équipes ont pris toutes les mesures permettant de gérer la sécurité.<br/>
+Vulnérabilités de l'entreprise.</li>
+<li>Veille technologique et prospective :
+Suivi des évolutions réglementaires et techniques de son domaine.<br/>
+Veille sur les évolutions nécessaires pour garantir la sécurité logique et physique du SI dans son ensemble.<br/></li>
+
+<h2>Quel salaire gagne un Responsable sécurité des systèmes d'information (RSSI) ?</h2>
+<p>
+Le salaire d'un RSSI est d'en moyenne 55 K€ brut annuel.
+</p>
+
+<h2>Quelles sont les qualités et compétences nécessaires pour être embauché en tant que Responsable sécurité des systèmes d'information (RSSI) ?</h2>
+
+<li>La rigueur : sans être hyper-procédurier, le RSSI est un peu la partie "raisonnable" de la DSI. S'il n'y a pas d'urgence, il garantit le respect des procédures et la notion de rédacteur-vérificateur.</li>
+<li>La curiosité : les évolutions technologiques sont nombreuses et rapide. Le RSSI doit s'intéresser à tout : applications, langages de programmations, matériels, virtualisations, systèmes d'exploitations... la sécurité est transverse !</li>
+<li>La communication : la sécurité est souvent vue comme une contrainte. Le RSSI a en charge de former et informer les utilisateurs du SI... y compris les dirigeants et autres personnes qui utilisent souvent des "passe-droits".</li>

@@ -1,0 +1,144 @@
+/*paramètres généraux*/
+
+*{margin: 0;}
+
+  /* Fond d'écran */
+  body{background:url('../images/image_de_fond.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;}
+
+a{text-decoration: none;
+    color:black;
+    cursor: pointer;
+}
+
+/*haut de page*/
+
+.entete{background:#318ce7;
+    font-size: 20px;
+    text-align: center;
+    padding: 2%;
+
+}
+header h2{padding: 25px;}
+
+/*barre de navigation supérieure*/
+
+.barre-sup{
+    background-color:#D9D9D9;
+    height: 30px;
+   margin: 15px 10px;
+   border-radius: 15px;
+   }
+
+.elements{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align:center;
+    padding:6px 50px;
+    margin:10px;
+}
+
+.elements a:hover{
+    color:#318CE7;
+}
+
+/* main contenu principal */
+main.centre{
+padding:30px;
+}
+
+
+
+ .liens-filieres{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 1%;
+    text-align: center;
+    
+ }
+ 
+ 
+   /* portion de texte supérieure*/
+   div.texte1{
+
+    text-align: center;
+    font-size: 25px;
+   }
+
+
+
+   
+
+/* liens vers d'autres secteurs */
+.barre-inf{
+    background-color:#D9D9D9;
+    height: 30px;
+   margin: 15px 10px;
+   border-radius: 15px;
+   }
+
+   .elements2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align:center;
+    padding:6px 50px;
+    margin:10px;
+}
+.elements2 a:hover{
+    color:#318CE7;
+}
+
+/*  portion de texte inférieure */
+div.texte2{
+   
+    text-align: center;
+    font-size: 25px;
+}
+
+/* pied de page */
+
+footer{
+    padding: 1%;
+    
+    background: #318CE7;
+
+}
+
+.liens-footer{
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+/*responsive*/
+
+
+/*Responsive*/
+
+@media screen and (max-width: 500px) {
+    .centre {
+        flex-direction: column;
+    }
+    .barre-sup,.barre-inf{
+        height:100%;
+    }
+    .elements,.elements2,.liens-footer{
+       
+        flex-wrap: wrap;
+    }
+   
+    .section1 {
+        width: 100%;
+        position: relative;
+    }
+    .section2 {
+        width: 100%;
+    }
+
+}   
+

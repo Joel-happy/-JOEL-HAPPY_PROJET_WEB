@@ -1,0 +1,145 @@
+/*paramètres généraux*/
+
+*{margin: 0;}
+
+
+
+a{text-decoration: none;
+    color:black;
+    cursor: pointer;
+}
+
+body{display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+/*haut de page*/
+
+.entete{background:#318ce7;
+    font-size: 20px;
+    text-align: center;
+    padding: 1%;
+
+}
+header h2{padding: 2px;}
+
+
+/* centre de la page */
+.centre{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: row nowrap;
+    align-content: stretch;
+}
+
+/* Barre de Navigation latérale */
+.section1{
+    height: 100%;
+    width: 20%;
+    position: sticky;
+    top: 0%;
+    left: 0%;
+}
+
+.autre-metier{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+    width:100%;  
+    background-color: #318CE7;
+}
+
+
+
+
+/* Section d'affichage du contenu */
+
+.section2{
+    height: 100%;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: #d9d9d9;
+}
+
+
+.barres-de-navigations{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align:center;
+    padding:1%;
+    background: #c0c0c0;
+    /* border-radius: 15px; */
+}
+
+.barres-de-navigations a:hover{
+    color:#318CE7;
+}
+
+/* textes */
+.contenu{
+
+    padding:1% ;
+}
+
+
+/* barre inférieur */
+/* .barre-inferieure{
+    background-color:#c0c0c0;
+    height: 30%;
+   
+   border-radius: 15px;
+   } */
+
+   .elements{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    text-align:center;
+    padding: 1px 10px;
+    
+}
+.elements2 a:hover{
+    color:#318CE7;
+}
+
+
+/* pied de page */
+
+footer{
+    
+    padding: 1%;
+    background: #318CE7;
+}
+
+.liens-footer{
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+/*Responsive*/
+
+@media screen and (max-width: 500px) {
+    .centre {
+        flex-direction: column-reverse;
+        
+    }
+    .section1 {
+        width: 100%;
+        position: relative;
+    }
+    .section2 {
+        width: 100%;
+    }
+    .liens-footer{
+        flex-direction: column;
+    }
+}   

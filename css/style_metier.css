@@ -143,3 +143,839 @@ footer{
         flex-direction: column;
     }
 }   
+
+
+                 /*Les boutons */
+
+                         /*Developpement*/
+
+                             /*logiciel*/
+
+
+                        #logiciel a.boutons{
+
+                                color:white;
+                                width: 100%;
+                                height: 50vh;   
+                                /* border-style:groove; */
+                                border-color: #318CE7;
+                            
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                cursor: pointer;
+                            }
+                            
+                            
+                        #logiciel a.bouton1, a.bouton2{
+                                text-transform: capitalize;
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                        #logiciel a.bouton1:hover, a.bouton2:hover{
+                                transition-duration: 1.5s;
+                                color: #318CE7;
+                            } 
+                            
+                            
+                            
+                        #logiciel a.bouton1{
+                                background: url('../../images/developpement/dev_mobile.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                        #logiciel a.bouton1:hover{
+                                background: url('../../images/developpement/dev_mobile2.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                            
+                        #logiciel a.bouton2{
+                                background: url('../../images/developpement/dev_web1.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                        #logiciel a.bouton2:hover{
+                                background: url('../../images/developpement/dev_web2.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                            
+                            /*libellé des boutons*/
+                        #logiciel  p.titres_boutons{
+                                color:black;
+                                background-color: rgba(250,250,250,0.7);
+                            }
+
+
+                                /*dev mobile*/
+
+                         #mobile a.boutons{
+                                    color:white;
+                                    width: 100%;
+                                     height: 50vh;   
+                                    border-color: #318CE7;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    cursor: pointer;
+                                }
+                                
+        
+                          #mobile a.bouton1, a.bouton2{
+                                    text-transform: capitalize;
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                            #mobile a.bouton1:hover, a.bouton2:hover{
+                                    transition-duration: 1.5s;
+                                    color: #318CE7;
+                                } 
+                                
+                                
+                                
+                            #mobile a.bouton1{
+                                    background: url('../../images/developpement/dev_web1.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                            #mobile a.bouton1:hover{
+                                    background: url('../../images/developpement/dev_web2.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                
+                            #mobile a.bouton2{
+                                    background:url('../../images/developpement/dev_logi1.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                }
+                            #mobile a.bouton2:hover{
+                                    background: url('../../images/developpement/dev_logi2.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                  
+                                /*libellé des boutons*/
+                            #mobile p.titres_boutons{
+                                    color:black;
+                                    background-color: rgba(250,250,250,0.7);
+                                }
+
+                                        /*developpeur web*/
+                                
+                            #web a.boutons{
+                                color:white;
+                                width: 100%;
+                                 height: 50vh;   
+                                border-color: #318CE7;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                cursor: pointer;
+                            }
+                                
+                            
+                            #web a.bouton1, a.bouton2{
+                                text-transform: capitalize;
+                                background-repeat: no-repeat;
+                                background-size: cover;                          
+                            }
+                            #web a.bouton1:hover, a.bouton2:hover{
+                                transition-duration: 1.5s;
+                                color: #318CE7;
+                            } 
+                            
+                            
+                            #web a.bouton1{
+                                background:url('../../images/developpement/dev_logi1.jpg');
+                            background-repeat: no-repeat;
+                            background-size: cover;
+                            }
+                            #web a.bouton1:hover{
+                                background: url('../../images/developpement/dev_logi2.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                            
+
+                            #web a.bouton2{
+                                background: url('../../images/developpement/dev_mobile.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                            #web a.bouton2:hover{
+                                background: url('../../images/developpement/dev_mobile2.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                            
+                            /*libellé des boutons*/
+                            #web p.titres_boutons{
+                                color:black;
+                                background-color: rgba(250,250,250,0.7);
+                            }
+
+
+                                /*data*/
+
+                               #analyst a.boutons{
+                                    color:white;
+                                    width: 100%;
+                                    height: 50vh;   
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    cursor: pointer;
+                                }
+
+
+                               #analyst a.bouton1, a.bouton2{
+                                    text-transform: capitalize;
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+
+                                }
+                               #analyst a.bouton1:hover, a.bouton2:hover{
+                                    transition-duration: 1.5s;
+                                    color: #318CE7;
+                                } 
+
+
+
+                               #analyst a.bouton1{
+                                    background: url('../../images/data/data6.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                               #analyst a.bouton1:hover{
+                                    background: url('../../images/data/data3.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+
+                                #analyst a.bouton2{
+                                    background: url('../../images/data/dat_en.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                #analyst a.bouton2:hover{
+                                    background: url('../../images/data/data1.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                
+                                /*libellé des boutons*/
+                                #analyst p.titres_boutons{
+                                    color:black;
+                                    background-color: rgba(250,250,250,0.7);
+                                }
+
+
+                                /*analyst*/
+                                #scientist a.boutons{
+                                    color:white;
+                                    width: 100%;
+                                     height: 50vh;
+                                    border-color: #318CE7;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    cursor: pointer;
+                                }
+                                
+                                
+                               #scientist a.bouton1, a.bouton2{
+                                    text-transform: capitalize;
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                               #scientist a.bouton1:hover, a.bouton2:hover{
+                                    transition-duration: 1.5s;
+                                    color: #318CE7;
+                                } 
+                                
+                                
+                                
+                               #scientist a.bouton1{
+                                background:url('../../images/data/data5.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                }
+                               #scientist a.bouton1:hover{
+                                    background: url('../../images/data/data4.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                
+                               #scientist a.bouton2{
+                                    background: url('../../images/data/data6.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                               #scientist a.bouton2:hover{
+                                    background: url('../../images/data/data3.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                  
+                                /*libellé des boutons*/
+                               #scientist p.titres_boutons{
+                                    color:black;
+                                    background-color: rgba(250,250,250,0.7);
+                                }
+
+                                /*architect*/
+
+                                #architect a.boutons{
+                                    color:white;
+                                    width: 100%;
+                                     height: 50vh;
+                                    border-color: #318CE7;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    cursor: pointer;
+                                }  
+                                
+                                
+                               #architect a.bouton1, a.bouton2{
+                                    text-transform: capitalize;
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+
+                                }
+                               #architect a.bouton1:hover, a.bouton2:hover{
+                                    transition-duration: 1.5s;
+                                    color: #318CE7;
+                                } 
+
+
+
+                               #architect a.bouton1{
+                                    background: url('../../images/data/dat_en.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                               #architect a.bouton1:hover{
+                                    background: url('../../images/data/data1.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+
+                               #architect a.bouton2{
+                                background:url('../../images/data/data5.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                }
+                               #architect a.bouton2:hover{
+                                    background: url('../../images/data/data4.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                
+                                /*libellé des boutons*/
+                               #architect p.titres_boutons{
+                                    color:black;
+                                    background-color: rgba(250,250,250,0.7);
+                                }
+
+                                
+                                /*gestion*/
+
+                                /*admin bd*/
+
+                                #base a.boutons{
+                                    color:white;
+                                    width: 100%;
+                                     height: 50vh;   
+                                    /* border-style:groove; */
+                                    border-color: #318CE7;
+                                   
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    cursor: pointer;
+                                }
+                                
+                                
+                                #base a.bouton1, a.bouton2{
+                                    text-transform: capitalize;
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                
+                                }
+                                #base a.bouton1:hover, a.bouton2:hover{
+                                    transition-duration: 1.5s;
+                                    color: #318CE7;
+                                } 
+                                
+                                
+                                
+                                #base a.bouton1{
+                                    background: url('../../images/gestion/admin_sap.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                #base a.bouton1:hover{
+                                    background: url('../../images/gestion/administrateur_sap.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                
+                                #base a.bouton2{
+                                    background: url('../../images/gestion/webmaster.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                #base a.bouton2:hover{
+                                    background: url('../../images/gestion/webmaster2.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                  
+                                /*libellé des boutons*/
+                                #base p.titres_boutons{
+                                    color:black;
+                                    background-color: rgba(250,250,250,0.7);
+                                }
+
+
+                                /*admin sap*/
+                                    
+                                #sap a.boutons{
+                                    color:white;
+                                    width: 100%;
+                                     height: 50vh;   
+                                    /* border-style:groove; */
+                                    border-color: #318CE7;
+                                   
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    cursor: pointer;
+                                }
+                                
+                                
+                               #sap a.bouton1, a.bouton2{
+                                    text-transform: capitalize;
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                
+                                }
+                               #sap a.bouton1:hover, a.bouton2:hover{
+                                    transition-duration: 1.5s;
+                                    color: #318CE7;
+                                } 
+                                
+                                
+                                
+                               #sap a.bouton1{
+                                    background: url('../../images/gestion/webmaster.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                               #sap a.bouton1:hover{
+                                    background: url('../../images/gestion/webmaster2.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                
+                               #sap a.bouton2{
+                                    background:url('../../images/gestion/admin_bd2.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                }
+                               #sap a.bouton2:hover{
+                                    background: url('../../images/gestion/admin_bd3.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                  
+                                /*libellé des boutons*/
+                               #sap p.titres_boutons{
+                                    color:black;
+                                    background-color: rgba(250,250,250,0.7);
+                                }
+
+
+                                /*webmaster*/
+                                 /*Les boutons */
+
+                               #master a.boutons{
+                                    color:white;
+                                    width: 100%;
+                                    height: 50vh;   
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    cursor: pointer;
+                                }
+                                
+                                
+                               #master a.bouton1, a.bouton2{
+                                    text-transform: capitalize;
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                               #master a.bouton1:hover, a.bouton2:hover{
+                                    transition-duration: 1.5s;
+                                    color: #318CE7;
+                                } 
+                                
+                                
+                                
+                               #master a.bouton1{
+                                background:url('../../images/gestion/admin_bd2.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                }
+                               #master a.bouton1:hover{
+                                    background: url('../../images/gestion/admin_bd3.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                
+                               #master a.bouton2{
+                                    background: url('../../images/gestion/admin_sap.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                               #master a.bouton2:hover{
+                                    background: url('../../images/gestion/administrateur_sap.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                
+                                /*libellé des boutons*/
+                               #master p.titres_boutons{
+                                    color:black;
+                                    background-color: rgba(250,250,250,0.7);
+                                }
+                
+                                /*consultant securité*/
+
+                               #consultant a.boutons{
+                                    color:white;
+                                    width: 100%;
+                                     height: 50vh;   
+                                    border-color: #318CE7;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    cursor: pointer;
+                                }
+                                
+                                
+                               #consultant a.bouton1, a.bouton2{
+                                    text-transform: capitalize;
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                
+                                }
+                               #consultant a.bouton1:hover, a.bouton2:hover{
+                                    transition-duration: 1.5s;
+                                    color: #318CE7;
+                                } 
+                                
+                                
+                                
+                               #consultant a.bouton1{
+                                    background: url('../../images/securite/security.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                               #consultant a.bouton1:hover{
+                                    background: url('../../images/securite/sec2.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                
+                               #consultant a.bouton2{
+                                    background: url('../../images/securite/securite.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                               #consultant a.bouton2:hover{
+                                    background: url('../../images/securite/secu1.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                  
+                                /*libellé des boutons*/
+                               #consultant p.titres_boutons{
+                                    color:black;
+                                    background-color: rgba(250,250,250,0.7);
+                                }
+
+                                /*ingénieur sécurité*/
+                               #ingenieur a.boutons{
+                                    color:white;
+                                    width: 100%;
+                                     height: 50vh;   
+                                    border-color: #318CE7;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    cursor: pointer;
+                                }
+                                
+                                
+                               #ingenieur a.bouton1, a.bouton2{
+                                    text-transform: capitalize;
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                
+                                }
+                               #ingenieur a.bouton1:hover, a.bouton2:hover{
+                                    transition-duration: 1.5s;
+                                    color: #318CE7;
+                                } 
+                                
+                                
+                                
+                               #ingenieur a.bouton1{
+                                    background: url('../../images/securite/securite.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                               #ingenieur a.bouton1:hover{
+                                    background: url('../../images/securite/secu1.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                
+                               #ingenieur a.bouton2{
+                                    background:url('../../images/securite/securite1.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                }
+                               #ingenieur a.bouton2:hover{
+                                    background: url('../../images/securite/ing_sec.jpg');
+                                    background-size: cover;
+                                }
+                                  
+                                /*libellé des boutons*/
+                               #ingenieur p.titres_boutons{
+                                    color:black;
+                                    background-color: rgba(250,250,250,0.7);
+                                }
+
+                                /*responsable sécurité*/
+
+                               #responsable a.boutons{
+                                    color:white;
+                                    width: 100%;
+                                     height: 50vh;   
+                                    border-color: #318CE7;
+                                    display: flex;
+                                    justify-content: center;
+                                    align-items: center;
+                                    cursor: pointer;
+                                }
+                                
+                                
+                               #responsable a.bouton1, a.bouton2{
+                                    text-transform: capitalize;
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                
+                                }
+                               #responsable a.bouton1:hover, a.bouton2:hover{
+                                    transition-duration: 1.5s;
+                                    color: #318CE7;
+                                } 
+                                
+                                
+                                
+                               #responsable a.bouton1{
+                                background:url('../../images/securite/securite1.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                }
+                               #responsable a.bouton1:hover{
+                                    background: url('../../images/securite/ing_sec.jpg');
+                                    background-size: cover;
+                                }
+                                
+                               #responsable a.bouton2{
+                                    background: url('../../images/securite/security.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                               #responsable a.bouton2:hover{
+                                    background: url('../../images/securite/sec2.jpg');
+                                    background-repeat: no-repeat;
+                                    background-size: cover;
+                                }
+                                  
+                                /*libellé des boutons*/
+                               #responsable p.titres_boutons{
+                                    color:black;
+                                    background-color: rgba(250,250,250,0.7);
+                                }
+
+
+                                /*graphismes*/
+
+                               /*infographiste*/
+                               
+                            #info a.boutons{
+                                color:white;
+                                width: 100%;
+                                 height: 50vh;   
+                                border-color: #318CE7;
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                cursor: pointer;
+                            }
+                            
+                            
+                            #info a.bouton1, a.bouton2{
+                                text-transform: capitalize;
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            
+                            }
+                            #info a.bouton1:hover, a.bouton2:hover{
+                                transition-duration: 1.5s;
+                                color: #318CE7;
+                            } 
+                            
+                            
+                            
+                            #info a.bouton1{
+                                background: url('../../images/design/ux_designer2.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                            #info a.bouton1:hover{
+                                background: url('../../images/design/ux_designer1.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                            
+                           #info a.bouton2{
+                                background: url('../../images/design/web1.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                           #info a.bouton2:hover{
+                                background: url('../../images/design/design1.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                              
+                            /*libellé des boutons*/
+                           #info p.titres_boutons{
+                                color:black;
+                                background-color: rgba(250,250,250,0.7);
+                            }
+
+                            /*ux_designer*/
+
+                           #ux_designer a.boutons{
+                                color:white;
+                                width: 100%;
+                                 height: 50vh;   
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                cursor: pointer;
+                            }
+                            
+                            
+                           #ux_designer a.bouton1, a.bouton2{
+                                text-transform: capitalize;
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            
+                            }
+                           #ux_designer a.bouton1:hover, a.bouton2:hover{
+                                transition-duration: 1.5s;
+                                color: #318CE7;
+                            } 
+                            
+                            
+                            
+                           #ux_designer a.bouton1{
+                                background: url('../../images/design/web1.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                           #ux_designer a.bouton1:hover{
+                                background: url('../../images/design/design1.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                            
+                           #ux_designer a.bouton2{
+                                background:url('../../images/design/design3.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                           #ux_designer a.bouton2:hover{
+                                background: url('../../images/design/info2.jpg');
+                                background-size: no-repeat;
+                                background-size: cover;
+                            }
+                              
+                            /*libellé des boutons*/
+                            #ux_designer p.titres_boutons{
+                                color:black;
+                                background-color: rgba(250,250,250,0.7);
+                            }
+
+                            /*web_designer*/
+
+                           #web_designer a.boutons{
+                                color:white;
+                                width: 100%;
+                                 height: 50vh;   
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                cursor: pointer;
+                            }
+                            
+                            
+                           #web_designer a.bouton1, a.bouton2{
+                                text-transform: capitalize;
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                           #web_designer a.bouton1:hover, a.bouton2:hover{
+                                transition-duration: 1.5s;
+                                color: #318CE7;
+                            } 
+                            
+                            
+                            
+                           #web_designer a.bouton1{
+                                background:url('../../images/design/design3.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                           #web_designer a.bouton1:hover{
+                                background: url('../../images/design/info2.jpg');
+                                background-size: no-repeat;
+                                background-size: cover;
+                            }
+                            
+                           #web_designer a.bouton2{
+                                background: url('../../images/design/ux_designer2.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                           #web_designer a.bouton2:hover{
+                                background: url('../../images/design/ux_designer1.jpg');
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                            }
+                              
+                            /*libellé des boutons*/
+                            #web_designer p.titres_boutons{
+                                color:black;
+                                background-color: rgba(250,250,250,0.7);
+                            }

@@ -172,34 +172,34 @@ footer{
                                 
                                 
                                #dev a.bouton1{
-                                background:url('../../images/developpement/dev_logi1.jpg');
+                                background:url('../images/developpement/dev_logi1.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                                 }
                                #dev a.bouton1:hover{
-                                    background: url('../../images/developpement/dev_logi2.jpg');
+                                    background: url('../images/developpement/dev_logi2.jpg');
                                     background-repeat: no-repeat;
                                     background-size: cover;
                                 }
                                 
                                #dev a.bouton2{
-                                    background: url('../../images/developpement/dev_mobile.jpg');
+                                    background: url('../images/developpement/dev_mobile.jpg');
                                     background-repeat: no-repeat;
                                     background-size: cover;
                                 }
                                #dev a.bouton2:hover{
-                                    background: url('../../images/developpement/dev_mobile2.jpg');
+                                    background: url('../images/developpement/dev_mobile2.jpg');
                                     background-repeat: no-repeat;
                                     background-size: cover;
                                 }
                                 
                                #dev a.bouton3{
-                                    background: url('../../images/developpement/dev_web1.jpg');
+                                    background: url('../images/developpement/dev_web1.jpg');
                                     background-repeat: no-repeat;
                                     background-size: cover;
                                 }
                                #dev a.bouton3:hover{
-                                    background: url('../../images/developpement/dev_web2.jpg');
+                                    background: url('../images/developpement/dev_web2.jpg');
                                     background-repeat: no-repeat;
                                     background-size: cover;
                                 }
@@ -242,34 +242,34 @@ footer{
                             
                             
                            #data a.bouton1{
-                            background:url('../../images/data/data5.jpg');
+                            background:url('../images/data/data5.jpg');
                             background-repeat: no-repeat;
                             background-size: cover;
                             }
                            #data a.bouton1:hover{
-                                background: url('../../images/data/data4.jpg');
+                                background: url('../images/data/data4.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                             
                            #data a.bouton2{
-                                background: url('../../images/data/data6.jpg');
+                                background: url('../images/data/data6.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                            #data a.bouton2:hover{
-                                background: url('../../images/data/data3.jpg');
+                                background: url('../images/data/data3.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                             
                            #data a.bouton3{
-                                background: url('../../images/data/dat_en.jpg');
+                                background: url('../images/data/dat_en.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                            #data a.bouton3:hover{
-                                background: url('../../images/data/data1.jpg');
+                                background: url('../images/data/data1.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
@@ -314,34 +314,34 @@ footer{
                             
                             
                            #gestion a.bouton1{
-                            background:url('../../images/gestion/admin_bd2.jpg');
+                            background:url('../images/gestion/admin_bd2.jpg');
                             background-repeat: no-repeat;
                             background-size: cover;
                             }
                             #gestion a.bouton1:hover{
-                                background: url('../../images/gestion/admin_bd3.jpg');
+                                background: url('../images/gestion/admin_bd3.jpg');
                                 background-repeat:no-repeat;
                                 background-size: cover;
                             }
                             
                             #gestion a.bouton2{
-                                background: url('../../images/gestion/admin_sap.jpg');
+                                background: url('../images/gestion/admin_sap.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                             #gestion a.bouton2:hover{
-                                background: url('../../images/gestion/administrateur_sap.jpg');
+                                background: url('../images/gestion/administrateur_sap.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                             
                             #gestion a.bouton3{
-                                background: url('../../images/gestion/webmaster.jpg');
+                                background: url('../images/gestion/webmaster.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                             #gestion a.bouton3:hover{
-                                background: url('../../images/gestion/webmaster2.jpg');
+                                background: url('../images/gestion/webmaster2.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
@@ -383,33 +383,33 @@ footer{
                             
                             
                             #securite a.bouton1{
-                            background:url('../../images/securite/securite1.jpg');
+                            background:url('../images/securite/securite1.jpg');
                             background-repeat: no-repeat;
                             background-size: cover;
                             }
                             #securite a.bouton1:hover{
-                                background: url('../../images/securite/ing_sec.jpg');
+                                background: url('../images/securite/ing_sec.jpg');
                                 background-size: cover;
                             }
                             
                             #securite a.bouton2{
-                                background: url('../../images/securite/security.jpg');
+                                background: url('../images/securite/security.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                             #securite a.bouton2:hover{
-                                background: url('../../images/securite/sec2.jpg');
+                                background: url('../images/securite/sec2.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                             
                             #securite a.bouton3{
-                                background: url('../../images/securite/securite.jpg');
+                                background: url('../images/securite/securite.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                             #securite a.bouton3:hover{
-                                background: url('../../images/securite/secu1.jpg');
+                                background: url('../images/securite/secu1.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
@@ -453,33 +453,33 @@ footer{
                             
                             
                            #visuel a.bouton1{
-                            background:url('../../images/design/design3.jpg');
+                            background:url('../images/design/design3.jpg');
                             background-repeat: no-repeat;
                             background-size: cover;
                             }
                            #visuel a.bouton1:hover{
-                                background: url('../../images/design/info2.jpg');
+                                background: url('../images/design/info2.jpg');
                                 background-size: cover;
                             }
                             
                            #visuel a.bouton2{
-                                background: url('../../images/design/ux_designer2.jpg');
+                                background: url('../images/design/ux_designer2.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                            #visuel a.bouton2:hover{
-                                background: url('../../images/design/ux_designer1.jpg');
+                                background: url('../images/design/ux_designer1.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                             
                            #visuel a.bouton3{
-                                background: url('../../images/design/web1.jpg');
+                                background: url('../images/design/web1.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }
                            #visuel a.bouton3:hover{
-                                background: url('../../images/design/design1.jpg');
+                                background: url('../images/design/design1.jpg');
                                 background-repeat: no-repeat;
                                 background-size: cover;
                             }

@@ -154,8 +154,8 @@ background-size: cover;
 
 /*libellé des boutons*/
 p.titres_boutons{
-    color:black;
-    background-color: rgba(70,80,90,0.5);
+    color:white;
+    background-color: rgba(150,180,190,0.7);
     
 }
 

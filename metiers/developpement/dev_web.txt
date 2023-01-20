@@ -15,7 +15,7 @@
 <h2>Quelle est la fonction d’un développeur Web ?</h2>
 
 <p>
-    <strong>Un développeur ou programmeur Web</strong> est une personne qui prend un projet Web, qui a été pensée et réfléchie par un client ou une équipe de conception, et la transforme en site Web. 
+    <strong>Un développeur ou programmeur Web</strong> est une personne qui prend un projet_web.pdf.pdf, qui a été pensée et réfléchie par un client ou une équipe de conception, et la transforme en site Web. 
     Ils le font en écrivant des lignes de code compliqué. Pour les écrire, ils utilisent différents langages avec une spécificité et une utilité pour chacun d’entre eux. <br/>
     Les développeurs Web ont un travail assez difficile, car ils doivent prendre une langue que nous comprenons, comme l’anglais, et la traduire dans une langue qu’un ordinateur comprend, comme Python ou HTML.
     Comme vous pouvez l’imaginer, cela va prendre beaucoup de temps et d’efforts pour apprendre différents langages de programmation ainsi que leurs utilisations. Différents types de développeurs se spécialisent dans différents domaines, ce qui signifie que les grands projets Web sont généralement une collaboration entre plusieurs développeurs différents.
